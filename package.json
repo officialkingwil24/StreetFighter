@@ -1,0 +1,17 @@
+{
+  "name": "psql",
+  "version": "1.0.0",
+  "description": "* Create DB (Street Fighter)\r * Create Table (Street Fighter)\r * Add a few items (Street Fighter)\r * Write a selector to retrieve info\r * Write JavaScript utilizing the selector to log the info\r * Write JavaScript to display info on web page\r * Stretch Goal: CRUD?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.0"
+  }
+}
